@@ -1,4 +1,4 @@
-IR="`pwd`/`dirname "$0"`/"
+DIR="`pwd`/`dirname "$0"`/"
 GREEN="\033[0;32m"
 NC="\033[0m"
 
